@@ -132,4 +132,8 @@ dist
 # bash
 .bash_history
 *.sh
+.bash_logout
+.bash_profile
+.bashrc
+.zshrc
 
