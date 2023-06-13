@@ -73,7 +73,3 @@ The endpoint returns a JSON object representing the item's details.
 ## Error Handling
 
 If any error occurs during the execution of the API endpoints or the database operations, the application will log the error details to the console.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
