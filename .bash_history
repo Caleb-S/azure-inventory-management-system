@@ -15,3 +15,12 @@ git
 git pull origin main
 git status
 git add
+git add .
+git status
+git commit -m "Init Commit"
+git config --global user.email "sass.caleb@icloud.com"
+git config --global user.name "caleb-s"
+git commit -m "Init Commit"
+git push origin main
+git branch
+git status
