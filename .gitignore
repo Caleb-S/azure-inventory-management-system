@@ -137,3 +137,6 @@ dist
 .bashrc
 .zshrc
 
+# Azure
+.azure
+
